@@ -14,7 +14,7 @@ This repository contains the code for an awesome responsive website. The website
 
 ## Demo
 
-You can check out the live demo of the website [here](https://your-demo-url.com).
+You can check out the live demo of the website [here](https://website-landing-page-fviqt8wmx-muhammadshakir-dev.vercel.app/).
 
 ![image](https://github.com/MuhammadShakir-dev/Website-Landing-page/assets/84896803/7d0c19fb-1706-48c2-ba2f-222aafd65cec)
 
